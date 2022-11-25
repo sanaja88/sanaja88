@@ -24,4 +24,17 @@
     "Time": "Feb 2023"
     "Time": "Feb 2023"
   }
+{
+"InsuranceCompanies": {
+  "Top Insurance Companies": [
+    {
+        "No": "1",
+        "Name": "Berkshire Hathaway ( BRK.A)",
+        "Market Capitalization": "$308 billion"
+    }
+    ],
+    "source": "investopedia.com",
+    "Time": "Feb 2023"
+    "Time": "Feb 2023"
+  }
 }
